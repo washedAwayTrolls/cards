@@ -7,6 +7,8 @@
   margin: 30px 10px;
   background-color:#eee;
   border-radius: 10px;
+  border: 2px solid black;
+  box-shadow: 0 7px 15px 0 rgba(0, 0, 0, 0.6)
   width: 350px;
   height: 500px;
   float:left;
@@ -14,18 +16,12 @@
 .row .card .content {
   padding: 15px;
 }
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Acme', sans-serif;
-}
-p {
-  font-family: 'Lato', sans-serif;
-}
 
 /* -------------------------Individual Styles------------------------- */
 
 /* Lexi */
 #lexi .image {
-  height: 220px;
+  height: 150px;
   background-image: url(dragon-lexi.png);
   background-size: cover;
   background-position: center;
@@ -71,7 +67,15 @@ p {
 /* Nate */
 
 /* Emily */
-
+#emily .image {
+  height: 150px;
+  background-image: url(tree.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 /* Tim */
+
+
 
 /* Carlos */
