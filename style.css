@@ -11,7 +11,6 @@
   box-shadow: 0 7px 15px 0 rgba(0, 0, 0, 0.6)
   width: 350px;
   height: 500px;
-  float:left;
 }
 .row .card .content {
   padding: 15px;
