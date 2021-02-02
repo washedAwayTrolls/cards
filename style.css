@@ -13,44 +13,24 @@
 .row .card .content {
   padding: 15px;
 }
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Acme', sans-serif;
-}
-p {
-  font-family: 'Lato', sans-serif;
-}
 
 /* -------------------------Individual Styles------------------------- */
 
 /* Lexi */
 #lexi .image {
-  height: 220px;
+  height: 150px;
   background-image: url(dragon-lexi.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  border-bottom: 10px solid #2b2b2b;
 }
-.row .card#lexi {
-  border: 6px solid #d59903;
-  background-color:#1a1a1a;
-  color:#eee;
-}
-.row .card#lexi h3 {
-  font-size: 24px;
-  font-weight: 800;
-  text-transform: uppercase;
-}
+
 /* Nate */
 
 /* Emily */
-#emily .image {
-  height: 150px;
-  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.garrisoninstitute.org%2Fblog%2Fnotes-on-ecological-aesthetics-and-ethics%2F&psig=AOvVaw1rcbEpwEZoadtF3gfP2WgL&ust=1612320124238000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIii3NyWyu4CFQAAAAAdAAAAABAR);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-  /* Tim */
+
+/* Tim */
+
+
 
 /* Carlos */
