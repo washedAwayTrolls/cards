@@ -1,0 +1,25 @@
+/* General Styles */
+
+.row {
+  display: inline-block;
+}
+.row .card {
+  margin: 30px 10px;
+  background-color:#eee;
+  border-radius: 10px;
+}
+.row .card .content {
+  padding: 15px;
+}
+
+/* -------------------------Individual Styles------------------------- */
+
+/* Lexi */
+
+/* Nate */
+
+/* Emily */
+
+/* Tim */
+
+/* Carlos */
