@@ -9,6 +9,7 @@
   border-radius: 10px;
   width: 350px;
   height: 500px;
+  float:left;
 }
 .row .card .content {
   padding: 15px;
