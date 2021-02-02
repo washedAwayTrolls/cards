@@ -7,6 +7,8 @@
   margin: 30px 10px;
   background-color:#eee;
   border-radius: 10px;
+  width: 350px;
+  height: 500px;
 }
 .row .card .content {
   padding: 15px;
