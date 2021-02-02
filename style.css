@@ -13,18 +13,34 @@
 .row .card .content {
   padding: 15px;
 }
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Acme', sans-serif;
+}
+p {
+  font-family: 'Lato', sans-serif;
+}
 
 /* -------------------------Individual Styles------------------------- */
 
 /* Lexi */
 #lexi .image {
-  height: 150px;
+  height: 220px;
   background-image: url(dragon-lexi.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  border-bottom: 10px solid #2b2b2b;
 }
-
+.row .card#lexi {
+  border: 6px solid #d59903;
+  background-color:#1a1a1a;
+  color:#eee;
+}
+.row .card#lexi h3 {
+  font-size: 24px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
 /* Nate */
 
 /* Emily */
