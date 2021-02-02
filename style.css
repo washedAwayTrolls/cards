@@ -31,6 +31,9 @@
 #emily .image {
   height: 150px;
   background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.garrisoninstitute.org%2Fblog%2Fnotes-on-ecological-aesthetics-and-ethics%2F&psig=AOvVaw1rcbEpwEZoadtF3gfP2WgL&ust=1612320124238000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIii3NyWyu4CFQAAAAAdAAAAABAR);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
   /* Tim */
 
