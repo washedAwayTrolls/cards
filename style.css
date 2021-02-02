@@ -17,6 +17,13 @@
 /* -------------------------Individual Styles------------------------- */
 
 /* Lexi */
+#lexi .image {
+  height: 150px;
+  background-image: url(dragon-lexi.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
 
 /* Nate */
 
